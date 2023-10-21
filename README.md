@@ -22,7 +22,7 @@ The challenge is to build out the QR code component and get it looking as close 
      
 ### Screenshot
 
-![screenshot]()
+![screenshot](https://github.com/ivan-josef/qr-code-component/blob/main/screenshot.jfif)
 
 ### Links
 
