@@ -35,6 +35,7 @@ The challenge is to build out the QR code component and get it looking as close 
 
 - Semantic HTML5 markup
 - CSS custom properties
+- a bit of Flexbox
 
 ### What i learned
 
